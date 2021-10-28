@@ -1,0 +1,9 @@
+App Name: COVID-19 Data Visualization
+Version: 1
+============= Developer Info =============
+Name: Jewel Krishna Dash
+Occupation : Student
+Email : jewelkrishnadash@gmail.com      
+University : Noakhali Science & Technology University
+Department : Applied Mathematics
+Batch : 12th

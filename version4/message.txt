@@ -1,0 +1,3 @@
+Error for Both button.
+At first click on Case or Death button for Case or Death data.
+Then click Data Source button to seee data for cases or deaths.
